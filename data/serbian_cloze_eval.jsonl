@@ -18,7 +18,7 @@
 {"type": "grammatical", "prompt": "Izabrali su __ čoveka za predsednika.", "correct": "određenog", "candidates": ["određenog", "određeni", "određena", "određeno"]}
 {"type": "grammatical", "prompt": "To je bio jedan __ trenutak.", "correct": "poseban", "candidates": ["poseban", "posebna", "posebnog", "posebnu"]}
 {"type": "grammatical", "prompt": "Verujem __ rečima.", "correct": "tvojim", "candidates": ["tvojim", "tvoje", "tvoj", "tvojih"]}
-{"type": "grammatical", "prompt": "Sećam se __ iz detinjstva.", "correct": "događaja", "candidates": ["događaja", "događaj", "doga+aji", "događajem"]}
+{"type": "grammatical", "prompt": "Sećam se __ iz detinjstva.", "correct": "događaja", "candidates": ["događaja", "događaj", "događaji", "događajem"]}
 {"type": "grammatical", "prompt": "Razgovarali su __ filmu.", "correct": "o", "candidates": ["o", "sa", "na", "po"]}
 {"type": "grammatical", "prompt": "Pišem pismo __.", "correct": "prijatelju", "candidates": ["prijatelju", "prijatelj", "prijatelja", "prijateljem"]}
 {"type": "grammatical", "prompt": "On trči vrlo __.", "correct": "brzo", "candidates": ["brzo", "brz", "brza", "brzi"]}
@@ -78,10 +78,10 @@
 {"type": "semantic", "prompt": "U biblioteci se mora __.", "correct": "ćutati", "candidates": ["ćutati", "vikati", "trčati", "pevati"]}
 {"type": "semantic", "prompt": "Temperatura je pala ispod nule, pa je __.", "correct": "pao sneg", "candidates": ["pao sneg", "počelo leto", "sunce sijalo", "počeo požar"]}
 {"type": "semantic", "prompt": "U restoranu je naručio __.", "correct": "večeru", "candidates": ["večeru", "zadatak", "čas", "školu"]}
-{"type": "factual", "prompt": "Glavni grad Srbije je __.", "correct": " Beograd", "candidates": [" Beograd", " Novi Sad", " Sarajevo", " Skoplje"]}
-{"type": "factual", "prompt": "Nikola Tesla je rođen u __.", "correct": " Smiljanu", "candidates": [" Smiljanu", " Beogradu", " Zagrebu", " Kragujevcu"]}
-{"type": "factual", "prompt": "Najduža reka u Srbiji je __.", "correct": " Dunav", "candidates": [" Dunav", " Sava", " Tisa", " Morava"]}
-{"type": "factual", "prompt": "Ivo Andrić je dobio Nobelovu nagradu za __.", "correct": " književnost", "candidates": [" književnost", " fiziku", " hemiju", " mir"]}
+{"type": "factual", "prompt": "Glavni grad Srbije je __.", "correct": "Beograd", "candidates": ["Beograd", "Novi Sad", "Sarajevo", "Skoplje"]}
+{"type": "factual", "prompt": "Nikola Tesla je rođen u __.", "correct": "Smiljanu", "candidates": ["Smiljanu", "Beogradu", "Zagrebu", "Kragujevcu"]}
+{"type": "factual", "prompt": "Najduža reka u Srbiji je __.", "correct": "Dunav", "candidates": ["Dunav", "Sava", "Tisa", "Morava"]}
+{"type": "factual", "prompt": "Ivo Andrić je dobio Nobelovu nagradu za __.", "correct": "književnost", "candidates": ["književnost", "fiziku", "hemiju", "mir"]}
 {"type": "factual", "prompt": "Prvi svetski rat je počeo __.", "correct": "1914. godine", "candidates": ["1914. godine", "1941. godine", "1939. godine", "1918. godine"]}
 {"type": "factual", "prompt": "Srpska pravoslavna crkva slavi Božić __.", "correct": "7. januara", "candidates": ["7. januara", "25. decembra", "1. januara", "6. januara"]}
 {"type": "factual", "prompt": "Vuk Karadžić je reformisao __.", "correct": "srpski jezik", "candidates": ["srpski jezik", "pravni sistem", "vojsci", "ekonomiju"]}
