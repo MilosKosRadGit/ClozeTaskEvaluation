@@ -18,15 +18,15 @@
 {"type": "grammatical", "prompt": "Izabrali su __ čoveka za predsednika.", "correct": "određenog", "candidates": ["određenog", "određeni", "određena", "određeno"]}
 {"type": "grammatical", "prompt": "To je bio jedan __ trenutak.", "correct": "poseban", "candidates": ["poseban", "posebna", "posebnog", "posebnu"]}
 {"type": "grammatical", "prompt": "Verujem __ rečima.", "correct": "tvojim", "candidates": ["tvojim", "tvoje", "tvoj", "tvojih"]}
-{"type": "grammatical", "prompt": "Sećam se __ iz detinjstva.", "correct": "dogadjaja", "candidates": ["dogadjaja", "dogadjaj", "dogadjaji", "dogadjajem"]}
+{"type": "grammatical", "prompt": "Sećam se __ iz detinjstva.", "correct": "događaja", "candidates": ["događaja", "događaj", "doga+aji", "događajem"]}
 {"type": "grammatical", "prompt": "Razgovarali su __ filmu.", "correct": "o", "candidates": ["o", "sa", "na", "po"]}
 {"type": "grammatical", "prompt": "Pišem pismo __.", "correct": "prijatelju", "candidates": ["prijatelju", "prijatelj", "prijatelja", "prijateljem"]}
 {"type": "grammatical", "prompt": "On trči vrlo __.", "correct": "brzo", "candidates": ["brzo", "brz", "brza", "brzi"]}
 {"type": "grammatical", "prompt": "Došao je __ nego što sam mislio.", "correct": "ranije", "candidates": ["ranije", "rano", "posle", "ranom"]}
 {"type": "grammatical", "prompt": "To je __ pas od svih u komšiluku.", "correct": "najbrži", "candidates": ["najbrži", "brži", "brz", "brzo"]}
-{"type": "grammatical", "prompt": "Ona je __ pametna od svih učenika.", "correct": "najviše", "candidates": ["najviše", "više", "najpametnija", "pametnija"]}
+{"type": "grammatical", "prompt": "To je bio njen __ uspeh do sada.", "correct": "najveći", "candidates": ["najveći", "veći", "veliki", "velik"]}
 {"type": "grammatical", "prompt": "Uvek je __ od mene.", "correct": "bolji", "candidates": ["bolji", "dobar", "bolje", "najbolji"]}
-{"type": "grammatical", "prompt": "Vidim __ od onih knjiga.", "correct": "ovu", "candidates": ["ovu", "ovaj", "ovo", "oni"]}
+{"type": "grammatical", "prompt": "Vidim __ od onih knjiga.", "correct": "jednu", "candidates": ["jednu", "jednog", "jedno", "jedne"]}
 {"type": "grammatical", "prompt": "Čekam __ koji mi je obećao pomoć.", "correct": "onog", "candidates": ["onog", "onaj", "oni", "on"]}
 {"type": "grammatical", "prompt": "Idem __ školu svakog dana.", "correct": "u", "candidates": ["u", "na", "sa", "za"]}
 {"type": "grammatical", "prompt": "Razgovarali smo __ profesorom o projektu.", "correct": "sa", "candidates": ["sa", "za", "o", "kod"]}
@@ -39,7 +39,7 @@
 {"type": "grammatical", "prompt": "Pismo je poslato __ kancelarije.", "correct": "iz", "candidates": ["iz", "sa", "od", "na"]}
 {"type": "grammatical", "prompt": "Zahvaljujem se __ pomoći.", "correct": "na", "candidates": ["na", "za", "sa", "od"]}
 {"type": "grammatical", "prompt": "Putovao je __ Beograda do Novog Sada.", "correct": "od", "candidates": ["od", "do", "sa", "za"]}
-{"type": "grammatical", "prompt": "Idemo na putovanje __.", "correct": "vozom", "candidates": ["vozom", "voz", "vozomom", "voza"]}
+{"type": "grammatical", "prompt": "Idemo na putovanje __.", "correct": "vozom", "candidates": ["vozom", "voz", "voza", "voza"]}
 {"type": "grammatical", "prompt": "Ona __ nije želela da dođe.", "correct": "nikada", "candidates": ["nikada", "uvek", "ponekad", "ne"]}
 {"type": "grammatical", "prompt": "Da li si video __?", "correct": "njih", "candidates": ["njih", "ona", "oni", "njima"]}
 {"type": "grammatical", "prompt": "Kupio sam __ nego prošlog puta.", "correct": "više", "candidates": ["više", "malo", "mnogo", "najviše"]}
@@ -53,12 +53,12 @@
 {"type": "grammatical", "prompt": "Videla sam mesto __ smo se upoznali.", "correct": "gde", "candidates": ["gde", "kad", "kako", "zašto"]}
 {"type": "grammatical", "prompt": "On je znao vreme __ je trebalo da dođemo.", "correct": "kada", "candidates": ["kada", "gde", "koji", "kako"]}
 {"type": "grammatical", "prompt": "Ona je devojka __ sestra radi u bolnici.", "correct": "čija", "candidates": ["čija", "čiji", "čije", "čijim"]}
-{"type": "grammatical", "prompt": "Pričali smo o razlogu __ si otišao.", "correct": "zašto", "candidates": ["zašto", "kako", "gde", "kad"]}
+{"type": "grammatical", "prompt": "Razlog __ nije došao ostaje nepoznat.", "correct": "zašto", "candidates": ["zašto", "kako", "gde", "kad"]}
 {"type": "grammatical", "prompt": "To je problem __ ne mogu da rešim.", "correct": "koji", "candidates": ["koji", "koja", "koje", "kojima"]}
 {"type": "grammatical", "prompt": "Našao sam čoveka __ je automobil ukraden.", "correct": "čiji", "candidates": ["čijem", "čija", "čije", "čiji"]}
 {"type": "grammatical", "prompt": "Nađi knjigu __ stranice su pocepane.", "correct": "čije", "candidates": ["čije", "čiji", "čija", "čijeg"]}
 {"type": "grammatical", "prompt": "Sećam se dana __ smo prvi put razgovarali.", "correct": "kada", "candidates": ["kada", "gde", "kako", "zašto"]}
-{"type": "grammatical", "prompt": "Ako __ sutra, doći ću.", "correct": "budem", "candidates": ["budem", "bude", "bili", "bila"]}
+{"type": "grammatical", "prompt": "Ako __ vreme, poći ćemo ranije.", "correct": "dozvoli", "candidates": ["dozvoli", "dozvolim", "dozvola", "dozvoljeno"]}
 {"type": "grammatical", "prompt": "Volim da jedem __ hleb.", "correct": "topao", "candidates": ["topao", "topla", "toplo", "toplih"]}
 {"type": "grammatical", "prompt": "Ne znam gde __ moja knjiga.", "correct": "je", "candidates": ["je", "su", "sam", "si"]}
 {"type": "grammatical", "prompt": "Oni su __ otišli na izlet.", "correct": "juče", "candidates": ["juče", "sutra", "ponedeljkom", "vikend"]}
@@ -67,12 +67,12 @@
 {"type": "grammatical", "prompt": "Knjiga je __ od one koju sam čitao juče.", "correct": "bolja", "candidates": ["bolja", "bolje", "dobra", "najbolja"]}
 {"type": "grammatical", "prompt": "Ona je __ nego brat.", "correct": "pametnija", "candidates": ["pametna", "pametan", "pametnija", "najpametnija"]}
 {"type": "grammatical", "prompt": "Moram da završim zadatak __ kraja dana.", "correct": "do", "candidates": ["do", "u", "iz", "dokle"]}
-{"type": "grammatical", "prompt": "Znam __ si u pravu.", "correct": "što", "candidates": ["li", "da", "gde", "jer"]}
+{"type": "grammatical", "prompt": "Znam __ si u pravu.", "correct": "da", "candidates": ["li", "da", "gde", "jer"]}
 {"type": "semantic", "prompt": "On je bio toliko umoran da je odmah __.", "correct": "zaspao", "candidates": ["zaspao", "ustao", "pojeo", "pozvao"]}
 {"type": "semantic", "prompt": "Nakon nesreće, svi su bili u stanju __.", "correct": "šoka", "candidates": ["šoka", "radosti", "igre", "smeha"]}
 {"type": "semantic", "prompt": "Knjiga je bila toliko __ da je nisam mogla ispustiti.", "correct": "zanimljiva", "candidates": ["zanimljiva", "dosadna", "tvrda", "teška"]}
 {"type": "semantic", "prompt": "U rerni se __ hleb.", "correct": "pekao", "candidates": ["pekao", "kuvao", "prao", "jeo"]}
-{"type": "semantic", "prompt": "Upozorenje je bilo jasno: ne __ crveno svetlo.", "correct": "prolazi", "candidates": ["prolazi", "slušaj", "vidi", "piši"]}
+{"type": "semantic", "prompt": "Upozorenje je bilo jasno: ne __ na crveno svetlo.", "correct": "prolazi", "candidates": ["prolazi", "slušaj", "vidi", "piši"]}
 {"type": "semantic", "prompt": "Na sahrani je vladao __ ton.", "correct": "tužan", "candidates": ["tužan", "srećan", "povezan", "uzbuđen"]}
 {"type": "semantic", "prompt": "Za rešavanje ovog problema potrebno je __ razmišljanje.", "correct": "kritičko", "candidates": ["kritičko", "površno", "nasumično", "sporo"]}
 {"type": "semantic", "prompt": "U biblioteci se mora __.", "correct": "ćutati", "candidates": ["ćutati", "vikati", "trčati", "pevati"]}
@@ -93,7 +93,7 @@
 {"type": "idiomatic", "prompt": "Došlo mu je __.", "correct": "glave", "candidates": ["glave", "ruke", "stola", "pitanja"]}
 {"type": "idiomatic", "prompt": "Ponaša se kao da je __ sveta.", "correct": "centar", "candidates": ["centar", "kraj", "početak", "bog"]}
 {"type": "idiomatic", "prompt": "Pala mu je __ u med.", "correct": "sekira", "candidates": ["sekira", "kapa", "kesten", "ruka"]}
-{"type": "idiomatic", "prompt": "Spustio je __ na zemlju.", "correct": "loptu", "candidates": ["loptu", "glavu", "ruke", "koplje"]}
+{"type": "idiomatic", "prompt": "Nakon burne rasprave, odlučio je da spusti __.", "correct": "loptu", "candidates": ["loptu", "glavu", "ruke", "mikrofon"]}
 {"type": "idiomatic", "prompt": "Drži se kao pijan __.", "correct": "plota", "candidates": ["plota", "ograde", "flaše", "noge"]}
 {"type": "idiomatic", "prompt": "Pao je kao __.", "correct": "klada", "candidates": ["klada", "pokisla mačka", "težak kamen", "slomljen list"]}
 {"type": "idiomatic", "prompt": "Bacio je __ u vetar.", "correct": "reči", "candidates": ["reči", "kamen", "senku", "nadu"]}
@@ -102,9 +102,9 @@
 {"type": "lexical", "prompt": "Njegov govor je bio __ i ubedljiv.", "correct": "jasan", "candidates": ["jasan", "neodređen", "zbunjujući", "nejasan"]}
 {"type": "lexical", "prompt": "Ulice su bile __ posle oluje.", "correct": "mokre", "candidates": ["mokre", "suve", "hladne", "toplotne"]}
 {"type": "lexical", "prompt": "Ona je __ devojka koja uvek pomaže drugima.", "correct": "dobroćudna", "candidates": ["dobroćudna", "zlonamerna", "neprijatna", "gruba"]}
-{"type": "lexical", "prompt": "Deca su __ trčala po parku.", "correct": "veselo", "candidates": ["veselo", "tužno", "mirno", "sporo"]}
+{"type": "lexical", "prompt": "Deca su se smejala i __ trčala po parku.", "correct": "veselo", "candidates": ["veselo", "tužno", "nervozno", "sporo"]}
 {"type": "lexical", "prompt": "Jutros je nebo bilo __ i bez oblaka.", "correct": "plavo", "candidates": ["plavo", "sivo", "crno", "žuto"]}
 {"type": "lexical", "prompt": "Njegova odluka je bila __ i promišljena.", "correct": "mudra", "candidates": ["mudra", "laka", "nepromišljena", "impulsivna"]}
 {"type": "lexical", "prompt": "Knjiga koju sam pročitao bila je __ i zanimljiva.", "correct": "poučna", "candidates": ["poučna", "dosadna", "debela", "zbunjujuća"]}
 {"type": "lexical", "prompt": "Sastanak je trajao __ nego što sam očekivao.", "correct": "duže", "candidates": ["duže", "bolje", "brže", "lakše"]}
-{"type": "lexical", "prompt": "On je govorio __ i jasno, bez nerazumljivih reči.", "correct": "glasno", "candidates": ["glasno", "tiho", "bezveze", "nejasno"]}
+{"type": "lexical", "prompt": "On je govorio jasno i __, bez nerazumljivih reči.", "correct": "glasno", "candidates": ["glasno", "tiho", "bezveze", "nejasno"]}
