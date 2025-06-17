@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "total": 110,
+    "base_correct": 42,
+    "adapter_correct": 50,
+    "both_correct": 35,
+    "both_wrong": 53,
+    "adapter_only": 15,
+    "base_only": 7,
+    "net_gain": 8
+  },
+  "examples": [
+    {
+      "prompt": "Sutra ćemo __ na more.",
+      "base_predicted": "putujemo",
+      "adapter_predicted": "putovati",
+      "correct": "putovati",
+      "change": "adapter_fixed"
+    },
+    {
+      "prompt": "Izabrali su __ čoveka za predsednika.",
+      "base_predicted": "određeni",
+      "adapter_predicted": "određenog",
+      "correct": "određenog",
+      "change": "adapter_fixed"
+    },
+    {
+      "prompt": "To je bio jedan __ trenutak.",
+      "base_predicted": "posebna",
+      "adapter_predicted": "poseban",
+      "correct": "poseban",
+      "change": "adapter_fixed"
+    },
+    {
+      "prompt": "On trči vrlo __.",
+      "base_predicted": "brz",
+      "adapter_predicted": "brzo",
+      "correct": "brzo",
+      "change": "adapter_fixed"
+    },
+    {
+      "prompt": "Kupio sam __ nego prošlog puta.",
+      "base_predicted": "više",
+      "adapter_predicted": "malo",
+      "correct": "više",
+      "change": "adapter_wrong"
+    },
+    {
+      "prompt": "Kada si __ u školu?",
+      "base_predicted": "stići",
+      "adapter_predicted": "stigao",
+      "correct": "stigao",
+      "change": "adapter_fixed"
+    },
+    {
+      "prompt": "On je znao vreme __ je trebalo da dođemo.",
+      "base_predicted": "gde",
+      "adapter_predicted": "kada",
+      "correct": "kada",
+      "change": "adapter_fixed"
+    },
+    {
+      "prompt": "Ona je devojka __ sestra radi u bolnici.",
+      "base_predicted": "čija",
+      "adapter_predicted": "čiji",
+      "correct": "čija",
+      "change": "adapter_wrong"
+    },
+    {
+      "prompt": "Razlog __ nije došao ostaje nepoznat.",
+      "base_predicted": "gde",
+      "adapter_predicted": "zašto",
+      "correct": "zašto",
+      "change": "adapter_fixed"
+    },
+    {
+      "prompt": "Našao sam čoveka __ je automobil ukraden.",
+      "base_predicted": "čija",
+      "adapter_predicted": "čiji",
+      "correct": "čiji",
+      "change": "adapter_fixed"
+    }
+  ]
+}
