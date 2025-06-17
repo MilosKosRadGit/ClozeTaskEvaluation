@@ -1,0 +1,110 @@
+{"prompt": "Ana je kupila __ knjigu.", "predicted": "novo", "correct": "novu", "is_correct": false}
+{"prompt": "On __ knjige svakog dana.", "predicted": "čita", "correct": "čita", "is_correct": true}
+{"prompt": "Oni su __ film koji smo gledali.", "predicted": "snimljen", "correct": "snimili", "is_correct": false}
+{"prompt": "Imam dve __.", "predicted": "sestre", "correct": "sestre", "is_correct": true}
+{"prompt": "Moraš da __ pre nego što odeš.", "predicted": "pojede", "correct": "pojedeš", "is_correct": false}
+{"prompt": "Deca su __ u školu.", "predicted": "otišla", "correct": "otišla", "is_correct": true}
+{"prompt": "Vidim __ psa u parku.", "predicted": "to", "correct": "tog", "is_correct": false}
+{"prompt": "Marko i ja __ igrali šah.", "predicted": "sam", "correct": "smo", "is_correct": false}
+{"prompt": "Da li si __ zadatak?", "predicted": "uradio", "correct": "uradio", "is_correct": true}
+{"prompt": "To su __ problemi.", "predicted": "veliki", "correct": "veliki", "is_correct": true}
+{"prompt": "Na stolu leži __ jabuka.", "predicted": "crvena", "correct": "crvena", "is_correct": true}
+{"prompt": "Video je __ devojke u parku.", "predicted": "dva", "correct": "dve", "is_correct": false}
+{"prompt": "Kupio je poklon za __ prijatelja.", "predicted": "svoj", "correct": "svog", "is_correct": false}
+{"prompt": "Marija voli cveće. __ ga zaliva svaki dan.", "predicted": "On", "correct": "Ona", "is_correct": false}
+{"prompt": "Petar i Jovan su došli ranije. __ su sačekali nastavnika.", "predicted": "On", "correct": "Oni", "is_correct": false}
+{"prompt": "Sutra ćemo __ na more.", "predicted": "putujemo", "correct": "putovati", "is_correct": false}
+{"prompt": "Kada sam te video, već si __.", "predicted": "otišao", "correct": "otišao", "is_correct": true}
+{"prompt": "Izabrali su __ čoveka za predsednika.", "predicted": "određeni", "correct": "određenog", "is_correct": false}
+{"prompt": "To je bio jedan __ trenutak.", "predicted": "posebna", "correct": "poseban", "is_correct": false}
+{"prompt": "Verujem __ rečima.", "predicted": "tvoj", "correct": "tvojim", "is_correct": false}
+{"prompt": "Sećam se __ iz detinjstva.", "predicted": "dogadjaja", "correct": "dogadjaja", "is_correct": true}
+{"prompt": "Razgovarali su __ filmu.", "predicted": "o", "correct": "o", "is_correct": true}
+{"prompt": "Pišem pismo __.", "predicted": "prijatelju", "correct": "prijatelju", "is_correct": true}
+{"prompt": "On trči vrlo __.", "predicted": "brz", "correct": "brzo", "is_correct": false}
+{"prompt": "Došao je __ nego što sam mislio.", "predicted": "posle", "correct": "ranije", "is_correct": false}
+{"prompt": "To je __ pas od svih u komšiluku.", "predicted": "brz", "correct": "najbrži", "is_correct": false}
+{"prompt": "Ona je __ pametna od svih učenika.", "predicted": "više", "correct": "najviše", "is_correct": false}
+{"prompt": "Uvek je __ od mene.", "predicted": "bolje", "correct": "bolji", "is_correct": false}
+{"prompt": "Vidim __ od onih knjiga.", "predicted": "ovaj", "correct": "ovu", "is_correct": false}
+{"prompt": "Čekam __ koji mi je obećao pomoć.", "predicted": "on", "correct": "onog", "is_correct": false}
+{"prompt": "Idem __ školu svakog dana.", "predicted": "u", "correct": "u", "is_correct": true}
+{"prompt": "Razgovarali smo __ profesorom o projektu.", "predicted": "sa", "correct": "sa", "is_correct": true}
+{"prompt": "Čekam te __ autobuske stanice.", "predicted": "u", "correct": "kod", "is_correct": false}
+{"prompt": "Vozim bicikl __ park.", "predicted": "sa", "correct": "kroz", "is_correct": false}
+{"prompt": "Stigao je __ Beograda juče.", "predicted": "sa", "correct": "iz", "is_correct": false}
+{"prompt": "Razmišlja __ budućnosti.", "predicted": "o", "correct": "o", "is_correct": true}
+{"prompt": "Ona je izabrala poklon __ mene.", "predicted": "za", "correct": "za", "is_correct": true}
+{"prompt": "Sutra idemo __ planinu.", "predicted": "do", "correct": "na", "is_correct": false}
+{"prompt": "Pismo je poslato __ kancelarije.", "predicted": "sa", "correct": "iz", "is_correct": false}
+{"prompt": "Zahvaljujem se __ pomoći.", "predicted": "za", "correct": "na", "is_correct": false}
+{"prompt": "Putovao je __ Beograda do Novog Sada.", "predicted": "od", "correct": "od", "is_correct": true}
+{"prompt": "Idemo na putovanje __.", "predicted": "voz", "correct": "vozom", "is_correct": false}
+{"prompt": "Ona __ nije želela da dođe.", "predicted": "ne", "correct": "nikada", "is_correct": false}
+{"prompt": "Da li si video __?", "predicted": "ona", "correct": "njih", "is_correct": false}
+{"prompt": "Kupio sam __ nego prošlog puta.", "predicted": "više", "correct": "više", "is_correct": true}
+{"prompt": "On je __ čitao knjigu nego ja.", "predicted": "pažljivo", "correct": "pažljivije", "is_correct": false}
+{"prompt": "Kada si __ u školu?", "predicted": "stići", "correct": "stigao", "is_correct": false}
+{"prompt": "Ne mogu da se setim __ reči.", "predicted": "pravi", "correct": "prave", "is_correct": false}
+{"prompt": "Uzeo je šolju __ stola.", "predicted": "sa", "correct": "sa", "is_correct": true}
+{"prompt": "Vratio se __ posla kasno.", "predicted": "sa", "correct": "sa", "is_correct": true}
+{"prompt": "Ovo je knjiga __ sam ti pričao.", "predicted": "o kojoj", "correct": "o kojoj", "is_correct": true}
+{"prompt": "To je čovek __ je pomogao svima.", "predicted": "koji", "correct": "koji", "is_correct": true}
+{"prompt": "Videla sam mesto __ smo se upoznali.", "predicted": "gde", "correct": "gde", "is_correct": true}
+{"prompt": "On je znao vreme __ je trebalo da dođemo.", "predicted": "gde", "correct": "kada", "is_correct": false}
+{"prompt": "Ona je devojka __ sestra radi u bolnici.", "predicted": "čija", "correct": "čija", "is_correct": true}
+{"prompt": "Pričali smo o razlogu __ si otišao.", "predicted": "zašto", "correct": "zašto", "is_correct": true}
+{"prompt": "To je problem __ ne mogu da rešim.", "predicted": "koji", "correct": "koji", "is_correct": true}
+{"prompt": "Našao sam čoveka __ je automobil ukraden.", "predicted": "čija", "correct": "čiji", "is_correct": false}
+{"prompt": "Nađi knjigu __ stranice su pocepane.", "predicted": "čija", "correct": "čije", "is_correct": false}
+{"prompt": "Sećam se dana __ smo prvi put razgovarali.", "predicted": "kada", "correct": "kada", "is_correct": true}
+{"prompt": "Ako __ sutra, doći ću.", "predicted": "bude", "correct": "budem", "is_correct": false}
+{"prompt": "Volim da jedem __ hleb.", "predicted": "toplo", "correct": "topao", "is_correct": false}
+{"prompt": "Ne znam gde __ moja knjiga.", "predicted": "sam", "correct": "je", "is_correct": false}
+{"prompt": "Oni su __ otišli na izlet.", "predicted": "vikend", "correct": "juče", "is_correct": false}
+{"prompt": "Zašto je __ zadatak?", "predicted": "teško", "correct": "težak", "is_correct": false}
+{"prompt": "On radi __ od osam sati jutros.", "predicted": "prekidno", "correct": "neprekidno", "is_correct": false}
+{"prompt": "Knjiga je __ od one koju sam čitao juče.", "predicted": "bolje", "correct": "bolja", "is_correct": false}
+{"prompt": "Ona je __ nego brat.", "predicted": "pametna", "correct": "pametnija", "is_correct": false}
+{"prompt": "Moram da završim zadatak __ kraja dana.", "predicted": "do", "correct": "do", "is_correct": true}
+{"prompt": "Znam __ si u pravu.", "predicted": "li", "correct": "što", "is_correct": false}
+{"prompt": "On je bio toliko umoran da je odmah __.", "predicted": "ustao", "correct": "zaspao", "is_correct": false}
+{"prompt": "Nakon nesreće, svi su bili u stanju __.", "predicted": "igre", "correct": "šoka", "is_correct": false}
+{"prompt": "Knjiga je bila toliko __ da je nisam mogla ispustiti.", "predicted": "zanimljiva", "correct": "zanimljiva", "is_correct": true}
+{"prompt": "U rerni se __ hleb.", "predicted": "jeo", "correct": "pekao", "is_correct": false}
+{"prompt": "Upozorenje je bilo jasno: ne __ crveno svetlo.", "predicted": "piši", "correct": "prolazi", "is_correct": false}
+{"prompt": "Na sahrani je vladao __ ton.", "predicted": "povezan", "correct": "tužan", "is_correct": false}
+{"prompt": "Za rešavanje ovog problema potrebno je __ razmišljanje.", "predicted": "nasumično", "correct": "kritičko", "is_correct": false}
+{"prompt": "U biblioteci se mora __.", "predicted": "ćutati", "correct": "ćutati", "is_correct": true}
+{"prompt": "Temperatura je pala ispod nule, pa je __.", "predicted": "pao sneg", "correct": "pao sneg", "is_correct": true}
+{"prompt": "U restoranu je naručio __.", "predicted": "zadatak", "correct": "večeru", "is_correct": false}
+{"prompt": "Glavni grad Srbije je __.", "predicted": " Beograd", "correct": " Beograd", "is_correct": true}
+{"prompt": "Nikola Tesla je rođen u __.", "predicted": " Beogradu", "correct": " Smiljanu", "is_correct": false}
+{"prompt": "Najduža reka u Srbiji je __.", "predicted": " Morava", "correct": " Dunav", "is_correct": false}
+{"prompt": "Ivo Andrić je dobio Nobelovu nagradu za __.", "predicted": " književnost", "correct": " književnost", "is_correct": true}
+{"prompt": "Prvi svetski rat je počeo __.", "predicted": "1914. godine", "correct": "1914. godine", "is_correct": true}
+{"prompt": "Srpska pravoslavna crkva slavi Božić __.", "predicted": "25. decembra", "correct": "7. januara", "is_correct": false}
+{"prompt": "Vuk Karadžić je reformisao __.", "predicted": "srpski jezik", "correct": "srpski jezik", "is_correct": true}
+{"prompt": "Najveći aerodrom u Srbiji se zove __.", "predicted": "Nikola Tesla", "correct": "Nikola Tesla", "is_correct": true}
+{"prompt": "Najpoznatiji srpski teniser je __.", "predicted": "Novak Đoković", "correct": "Novak Đoković", "is_correct": true}
+{"prompt": "Država Srbija se nalazi u __.", "predicted": "Aziji", "correct": "Evropi", "is_correct": false}
+{"prompt": "Dao je petama __.", "predicted": "vetra", "correct": "vetra", "is_correct": true}
+{"prompt": "Radi kao __ bez glave.", "predicted": "muva", "correct": "muva", "is_correct": true}
+{"prompt": "Došlo mu je __.", "predicted": "pitanja", "correct": "glave", "is_correct": false}
+{"prompt": "Ponaša se kao da je __ sveta.", "predicted": "centar", "correct": "centar", "is_correct": true}
+{"prompt": "Pala mu je __ u med.", "predicted": "kesten", "correct": "sekira", "is_correct": false}
+{"prompt": "Spustio je __ na zemlju.", "predicted": "glavu", "correct": "loptu", "is_correct": false}
+{"prompt": "Drži se kao pijan __.", "predicted": "noge", "correct": "plota", "is_correct": false}
+{"prompt": "Pao je kao __.", "predicted": "klada", "correct": "klada", "is_correct": true}
+{"prompt": "Bacio je __ u vetar.", "predicted": "reči", "correct": "reči", "is_correct": true}
+{"prompt": "Izvukao je __ iz rukava.", "predicted": "keca", "correct": "keca", "is_correct": true}
+{"prompt": "Film je bio __ i dosadan.", "predicted": "brz", "correct": "spor", "is_correct": false}
+{"prompt": "Njegov govor je bio __ i ubedljiv.", "predicted": "nejasan", "correct": "jasan", "is_correct": false}
+{"prompt": "Ulice su bile __ posle oluje.", "predicted": "mokre", "correct": "mokre", "is_correct": true}
+{"prompt": "Ona je __ devojka koja uvek pomaže drugima.", "predicted": "gruba", "correct": "dobroćudna", "is_correct": false}
+{"prompt": "Deca su __ trčala po parku.", "predicted": "sporo", "correct": "veselo", "is_correct": false}
+{"prompt": "Jutros je nebo bilo __ i bez oblaka.", "predicted": "crno", "correct": "plavo", "is_correct": false}
+{"prompt": "Njegova odluka je bila __ i promišljena.", "predicted": "impulsivna", "correct": "mudra", "is_correct": false}
+{"prompt": "Knjiga koju sam pročitao bila je __ i zanimljiva.", "predicted": "debela", "correct": "poučna", "is_correct": false}
+{"prompt": "Sastanak je trajao __ nego što sam očekivao.", "predicted": "bolje", "correct": "duže", "is_correct": false}
+{"prompt": "On je govorio __ i jasno, bez nerazumljivih reči.", "predicted": "nejasno", "correct": "glasno", "is_correct": false}
