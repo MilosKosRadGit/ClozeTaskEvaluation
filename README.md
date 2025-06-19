@@ -38,7 +38,7 @@ The dataset is a list of multiple-choice cloze task instances formatted in JSONL
 }
 ```
 
-### Felds
+### Fields
 
 - `prompt`: A natural language sentence in Serbian with a missing word marked as `__`.
 
@@ -74,11 +74,11 @@ This diversity of task types makes the dataset a **comprehensive diagnostic tool
 
 ## Scripts Overview
 
-| Script Name      | Description                                                                 |
-|------------------|-----------------------------------------------------------------------------|
-| `Cloze_task_onBase.py`  | Main script for evaluating a model on a Serbian cloze dataset.              |
-| `Cloze_task_onAdapter.py`  | Main script for evaluating a model on a Serbian cloze dataset.              |
-| `Compare_BaseAdapter.py`  | Main script for evaluating a model on a Serbian cloze dataset.              |
+| Script Name               | Description                                                                                      |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| `Cloze_task_onBase.py`    | Evaluates a **base causal language model** (e.g. LLaMA 3.2) on the Serbian cloze dataset.        |
+| `Cloze_task_onAdapter.py` | Evaluates a **LoRA-adapted model** (PEFT adapter) on the same Serbian cloze dataset.             |
+| `Compare_BaseAdapter.py`  | Compares prediction results between the base and adapter models and reports changes in accuracy. |
 
 ---
 
